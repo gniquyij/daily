@@ -1,6 +1,6 @@
 Here's my typical day.
 
-|[working](working.png =300x300)|Working|
+|![working](working.png =300*300)|Working|
 
 <br>
 

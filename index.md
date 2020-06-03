@@ -1,6 +1,7 @@
-Here's my typical day...
+Here's my typical day.
 
-<img src="work.png" style="float:left;width:300px;height:300px"/><p>Working.</p>
+# Working
+<img src="work.png" style="float:left;width:300px;height:300px"/>
 
 <br>
 

@@ -1,7 +1,7 @@
 Here's my typical day.
 
-# Working
-<img src="work.png" style="float:left;width:300px;height:300px"/>
+|<img src="work.png" style="float:left;width:300px;height:300px"/>|Working|
+
 
 <br>
 

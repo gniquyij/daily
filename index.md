@@ -1,6 +1,7 @@
 Here's my typical day.
 
-|<img src="working.png" style="width:300px;height:300px"/>|Working.|
+|Work|<img src="work.png" style="width:300px;height:300px"/>|
+|<img src="stall.png" style="width:300px;height:300px"/>|Daydream when I know it would be legal to run a street stall in China|
 
 <br>
 

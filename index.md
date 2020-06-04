@@ -1,6 +1,6 @@
 Here's my typical day.
 
-|![working](working.png){width=300px height=300px}|Working.|
+|<img src="working.png" style="width:300px;height:300px"/>|Working.|
 
 <br>
 

@@ -1,7 +1,8 @@
 Here's my typical day.
 
-|Work|<img src="work.png" style="width:300px;height:300px"/>|
-|<img src="stall.png" style="width:300px;height:300px"/>|Daydream when I know it would be legal to run a street stall in China|
+|Working|<img src="work.png" style="width:300px;height:300px"/>|
+|<img src="stall.png" style="width:300px;height:300px"/>|When I know it would be legal to run a street stall in China|
+|Summer night|<img src="summer-mosquito.png" style="width:300px;height:300px"/>| 
 
 <br>
 

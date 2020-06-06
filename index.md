@@ -1,9 +1,9 @@
 Here's my typical day.
 
-|Working|<img src="work.png" style="width:300px;height:300px"/>|
-|<img src="stall.png" style="width:350px;height:350px"/>|When I know it would be legal to run a street stall in China|
-|Summer(Mosquito) night|<img src="mosquito.png" style="width:400px;height:400px"/>| 
-|<img src="sport.png" style="width:350px;height:350px"/>|Brain sport with metro handrails|
+|Working|<img src="work.png" style="width:100%;height:auto"/>|
+|<img src="stall.png" style="width:100%;height:auto"/>|When I know it would be legal to run a street stall in China|
+|Summer(Mosquito) night|<img src="mosquito.png" style="width:100%;height:auto"/>| 
+|<img src="sport.png" style="width:100%;height:auto"/>|Brain sport with metro handrails|
 
 <br>
 

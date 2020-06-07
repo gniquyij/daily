@@ -5,6 +5,7 @@ Here's my typical day.
 |Summer(Mosquito) night|<img src="mosquito.png" style="width:400px;height:400px"/>| 
 |<img src="metro.png" style="width:400px;height:400px"/>|How I look with 2 handrails on metro|
 |Brain sport with metro handrails|<img src="sport.png" style="width:400px;height:400px"/>|
+|<img src="scream.png" style="width:400px;height:400px"/>|How I look with a new follower|
 
 <br>
 

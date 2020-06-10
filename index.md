@@ -2,7 +2,7 @@ Here's my typical day.
 
 |Working|<img src="work.png" style="width:300px;height:300px"/>|
 |<img src="stall.png" style="width:350px;height:350px"/>|Run a street stall in China?|
-|Summer(Mosquito) night|<img src="mosquito.png" style="width:400px;height:400px"/>| 
+|Summer(mosquito) night|<img src="mosquito.png" style="width:400px;height:400px"/>| 
 |<img src="metro.png" style="width:400px;height:400px"/>|How I look with 2 handrails on metro|
 |Brain sport with metro handrails|<img src="sport.png" style="width:400px;height:400px"/>|
 |<img src="scream.png" style="width:400px;height:400px"/>|How I look with a new follower|

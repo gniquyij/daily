@@ -9,7 +9,7 @@ Here's my typical day.
 |_ lives matter|<img src="livesmatter.png" style="width:300px;height:300px"/>|
 |<img src="selfie.png" style="width:300px;height:300px"/>|Selfie|
 |Two characters|<img src="characters.png" style="width:400px;height:400px"/>|
-|<img src="whacamole.png" style="width:400px;height:400px"/>|Whac-A-Mole|
+|<img src="whacamole.png" style="width:400px;height:400px"/>|Debugging with stackoverflow|
 
 <br>
 

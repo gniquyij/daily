@@ -8,6 +8,7 @@ Here's my typical day.
 |<img src="scream.png" style="width:400px;height:400px"/>|How I look with a new follower|
 |_ lives matter|<img src="livesmatter.png" style="width:300px;height:300px"/>|
 |<img src="selfie.png" style="width:300px;height:300px"/>|Selfie|
+|Two characters|<img src="characters.png" style="width:400px;height:400px"/>|
 
 <br>
 

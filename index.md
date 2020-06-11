@@ -10,6 +10,7 @@ Here's my typical day.
 |<img src="selfie.png" style="width:300px;height:300px"/>|Selfie|
 |Two characters|<img src="characters.png" style="width:400px;height:400px"/>|
 |<img src="whacamole.png" style="width:400px;height:400px"/>|Debugging with stackoverflow|
+|Fly me to the moon|<img src="rocket.png" style="width:400px;height:400px"/>|
 
 <br>
 

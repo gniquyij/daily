@@ -11,6 +11,7 @@ Here's my typical day.
 |Two characters|<img src="characters.png" style="width:400px;height:400px"/>|
 |<img src="whacamole.png" style="width:400px;height:400px"/>|Debugging with stackoverflow|
 |Fly me to the moon|<img src="rocket.png" style="width:400px;height:400px"/>|
+|<img src="price.png" style="width:400px;height:400px"/>|Can only afford one bag with one month salary|
 
 <br>
 

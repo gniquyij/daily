@@ -15,6 +15,7 @@ Here's my typical day.
 |Melting|<img src="melting.png" style="width:400px;height:400px"/>|
 |<img src="weekend.png" style="width:400px;height:400px"/>|Weekend|
 |Gift|<img src="birth.png" style="width:400px;height:400px"/>|
+|<img src="neko.png" style="width:400px;height:400px"/>|Maneki neko|
 
 <br>
 

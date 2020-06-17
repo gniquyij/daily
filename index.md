@@ -16,7 +16,7 @@ Here's my typical day.
 |<img src="weekend.png" style="width:400px;height:400px"/>|Weekend|
 |Gift|<img src="birth.png" style="width:400px;height:400px"/>|
 |<img src="neko.png" style="width:400px;height:400px"/>|Maneki neko|
-|China?|<img src="dragon.png" style="width:400px;height:400px"/>|
+|Image|<img src="dragon.png" style="width:400px;height:400px"/>|
 
 <br>
 

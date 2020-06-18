@@ -17,6 +17,7 @@ Here's my typical day.
 |Gift|<img src="birth.png" style="width:400px;height:400px"/>|
 |<img src="neko.png" style="width:400px;height:400px"/>|Maneki neko|
 |Image|<img src="dragon.png" style="width:400px;height:400px"/>|
+|<img src="thinker.png" style="width:400px;height:400px"/>|Thinking|
 
 <br>
 

@@ -18,6 +18,7 @@ Here's my typical day.
 |<img src="neko.png" style="width:400px;height:400px"/>|Maneki neko|
 |Image|<img src="dragon.png" style="width:400px;height:400px"/>|
 |<img src="thinker.png" style="width:400px;height:400px"/>|Thinking|
+|Attention|<img src="attention.png" style="width:400px;height:400px"/>|
 
 <br>
 

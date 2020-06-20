@@ -19,6 +19,7 @@ Here's my typical day.
 |Image|<img src="dragon.png" style="width:400px;height:400px"/>|
 |<img src="thinker.png" style="width:400px;height:400px"/>|Thinking|
 |Attention|<img src="attention.png" style="width:400px;height:400px"/>|
+|<img src="peak.png" style="width:400px;height:400px"/>|大风起兮云飞扬|
 
 <br>
 

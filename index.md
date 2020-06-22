@@ -22,6 +22,7 @@ Here's my typical day.
 |<img src="peak.png" style="width:400px;height:400px"/>|大风起兮云飞扬|
 |Mobius|<img src="mobius.png" style="width:400px;height:400px"/>|
 |<img src="full.png" style="width:400px;height:400px"/>|Full|
+|Running nose|<img src="runningNose.png" style="width:400px;height:400px"/>|
 
 <br>
 

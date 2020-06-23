@@ -23,6 +23,7 @@ Here's my typical day.
 |Mobius|<img src="mobius.png" style="width:400px;height:400px"/>|
 |<img src="full.png" style="width:400px;height:400px"/>|Full|
 |Running nose|<img src="runningNose.png" style="width:400px;height:400px"/>|
+|<img src="crossroads.png" style="width:400px;height:400px"/>|Crossroads|
 
 <br>
 

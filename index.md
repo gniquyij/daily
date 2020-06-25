@@ -25,6 +25,7 @@ Here's my typical day.
 |Running nose|<img src="runningNose.png" style="width:400px;height:400px"/>|
 |<img src="crossroads.png" style="width:400px;height:400px"/>|Crossroads|
 |Growing up|<img src="babyface.png" style="width:400px;height:400px"/>|
+|<img src="outlier.png" style="width:400px;height:400px"/>|Outlier|
 
 <br>
 

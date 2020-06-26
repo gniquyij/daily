@@ -26,6 +26,7 @@ Here's my typical day.
 |<img src="crossroads.png" style="width:400px;height:400px"/>|Crossroads|
 |Growing up|<img src="babyface.png" style="width:400px;height:400px"/>|
 |<img src="outlier.png" style="width:400px;height:400px"/>|Outlier|
+|Rainy|<img src="rainy.png" style="width:400px;height:400px"|
 
 <br>
 

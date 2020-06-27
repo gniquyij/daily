@@ -27,6 +27,7 @@ Here's my typical day.
 |Growing up|<img src="babyface.png" style="width:400px;height:400px"/>|
 |<img src="outlier.png" style="width:400px;height:400px"/>|Outlier|
 |Rainy|<img src="rainy.png" style="width:400px;height:400px">|
+|<img src="makeup.png" style="width:400px;height:400px">|Makeup|
 
 <br>
 

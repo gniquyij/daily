@@ -28,6 +28,7 @@ Here's my typical day.
 |<img src="outlier.png" style="width:400px;height:400px"/>|Outlier|
 |Rainy|<img src="rainy.png" style="width:400px;height:400px">|
 |<img src="makeup.png" style="width:400px;height:400px">|Makeup|
+|Stay in bed|<img src="bed.png" style="width:400px;height:400px">|
 
 <br>
 

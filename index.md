@@ -30,6 +30,7 @@ Here's my typical day.
 |<img src="makeup.png" style="width:400px;height:400px">|Makeup|
 |Stay in bed|<img src="bed.png" style="width:400px;height:400px">|
 |<img src="tired.png" style="width:400px;height:400px">|Tired|
+|江天一色无纤尘，皎皎空中孤月轮|<img src="theSeaAndTheMoon.png" style="width:400px;height:400px">|
 
 <br>
 

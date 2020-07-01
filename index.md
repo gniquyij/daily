@@ -31,6 +31,7 @@ Here's my typical day.
 |Stay in bed|<img src="bed.png" style="width:400px;height:400px">|
 |<img src="tired.png" style="width:400px;height:400px">|Tired|
 |江天一色无纤尘，皎皎空中孤月轮|<img src="theSeaAndTheMoon.png" style="width:400px;height:400px">|
+|<img src="bedtime.png" style="width:400px;height:400px">|Bedtime|
 
 <br>
 

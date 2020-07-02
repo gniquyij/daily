@@ -32,6 +32,7 @@ Here's my typical day.
 |<img src="tired.png" style="width:400px;height:400px">|Tired|
 |江天一色无纤尘，皎皎空中孤月轮|<img src="theSeaAndTheMoon.png" style="width:400px;height:400px">|
 |<img src="bedtime_v2.png" style="width:400px;height:400px">|Bedtime|
+|Me at 3 AM|<img src="snack.png" style="width:400px;height:400px">|
 
 <br>
 

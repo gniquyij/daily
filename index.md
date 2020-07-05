@@ -35,6 +35,7 @@ Here's my typical day.
 |Me at 3 AM|<img src="snack.png" style="width:400px;height:400px">|
 |<img src="mojito.png" style="width:400px;height:400px">|Mojito|
 |Out of power|<img src="outOfPower.png" style="width:400px;height:400px">|
+|<img src="goal.png" style="width:400px;height:400px">|Goal|
 
 <br>
 

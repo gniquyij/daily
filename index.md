@@ -37,6 +37,7 @@ Here's my typical day.
 |Out of power|<img src="outOfPower.png" style="width:400px;height:400px">|
 |<img src="goal.png" style="width:400px;height:400px">|Goal|
 |The wall|<img src="theWall.png" style="width:400px;height:400px">|
+|<img src="awake.png" style="width:400px;height:400px">|Awake|
 
 <br>
 

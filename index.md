@@ -38,6 +38,7 @@ Here's my typical day.
 |<img src="goal.png" style="width:400px;height:400px">|Goal|
 |The wall|<img src="theWall.png" style="width:400px;height:400px">|
 |<img src="awake.png" style="width:400px;height:400px">|Awake|
+|Flower|<img src="flower.png" style="width:400px;height:400px">|
 
 <br>
 

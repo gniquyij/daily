@@ -39,6 +39,7 @@ Here's my typical day.
 |The wall|<img src="theWall.png" style="width:400px;height:400px">|
 |<img src="awake.png" style="width:400px;height:400px">|Awake|
 |Flower|<img src="flower.png" style="width:400px;height:400px">|
+|<img src="outOfBattery.png" style="width:400px;height:400px">|Out of Battery|
 
 <br>
 

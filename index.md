@@ -40,7 +40,7 @@ Here's my typical day.
 |<img src="awake.png" style="width:400px;height:400px">|Awake|
 |Flower|<img src="flower.png" style="width:400px;height:400px">|
 |<img src="outOfBattery.png" style="width:400px;height:400px">|Out of Battery|
-|Gravity|<img src="plank.png" style="width:400px;height:400px">|
+|Against gravity|<img src="plank.png" style="width:400px;height:400px">|
 
 <br>
 

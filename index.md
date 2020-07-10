@@ -41,6 +41,7 @@ Here's my typical day.
 |Flower|<img src="flower.png" style="width:400px;height:400px">|
 |<img src="outOfBattery.png" style="width:400px;height:400px">|Out of Battery|
 |Against gravity|<img src="plank.png" style="width:400px;height:400px">|
+|<img src="awake_v2.png" style="width:400px;height:400px">|Friday night|
 
 <br>
 

@@ -42,6 +42,7 @@ Here's my typical day.
 |<img src="outOfBattery.png" style="width:400px;height:400px">|Out of Battery|
 |Against gravity|<img src="plank.png" style="width:400px;height:400px">|
 |<img src="awake_v2.png" style="width:400px;height:400px">|Friday night|
+|Endpoints|<img src="plank_v2.png" style="width:400px;height:400px">|
 
 <br>
 

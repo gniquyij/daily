@@ -43,7 +43,8 @@ Here's my typical day.
 |Against gravity|<img src="plank.png" style="width:400px;height:400px">|
 |<img src="awake_v2.png" style="width:400px;height:400px">|Friday night|
 |Endpoints|<img src="plank_v2.png" style="width:400px;height:400px">|
-|<img src="zebraCrossing.png" style="width:400px;height:400px">|Could zebra crossing be not zebra?|
+|<img src="zebraCrossing.png" style="width:400px;height:400px">|Could zebra crossing not be zebra?|
+|Try to be cool|<img src="cool.gif" style="width:400px;height:400px">|
 
 <br>
 

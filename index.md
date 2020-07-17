@@ -46,6 +46,7 @@ Here's my typical day.
 |<img src="zebraCrossing.png" style="width:400px;height:400px">|Could zebra crossing not be zebra?|
 |Try to be cool|<img src="cool.gif" style="width:400px;height:400px">|
 |<img src="weirdo.png" style="width:400px;height:400px">|A weirdo|
+|Well...|<img src="well.gif" style="width:400px;height:400px">|
 
 <br>
 

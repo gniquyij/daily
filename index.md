@@ -47,6 +47,10 @@ Here's my typical day.
 |Try to be cool|<img src="cool.gif" style="width:400px;height:400px">|
 |<img src="weirdo.png" style="width:400px;height:400px">|A weirdo|
 |Well...|<img src="well.gif" style="width:400px;height:400px">|
+|<img src="like.gif" style="width:400px;height:400px">|Like|
+|IO - ears|<img src="IO_ears.png" style="width:400px;height:400px">|
+|<img src="IO_eyes.png" style="width:400px;height:400px">|IO - eyes|
+|IO - mouth|<img src="IO_mouth.png" style="width:400px;height:400px">|
 
 <br>
 

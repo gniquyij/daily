@@ -51,7 +51,7 @@ Here's my typical day.
 |IO - ears|<img src="IO_ears.png" style="width:400px;height:400px">|
 |<img src="IO_eyes.png" style="width:400px;height:400px">|IO - eyes|
 |IO - mouth|<img src="IO_mouth.png" style="width:400px;height:400px">|
-|<img src="real.png" style="width:400px;height:400px">|A real dream|
+|<img src="real.png" style="width:400px;height:400px">|Got daydream real|
 
 <br>
 

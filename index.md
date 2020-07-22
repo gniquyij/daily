@@ -52,6 +52,7 @@ Here's my typical day.
 |<img src="IO_eyes.png" style="width:400px;height:400px">|IO - eyes|
 |IO - mouth|<img src="IO_mouth.png" style="width:400px;height:400px">|
 |<img src="real.png" style="width:400px;height:400px">|Got daydream real|
+|Mirrors|<img src="mirrors.png" style="width:400px;height:400px">|
 
 <br>
 

@@ -53,7 +53,7 @@ Here's my typical day.
 |IO - mouth|<img src="IO_mouth.png" style="width:400px;height:400px">|
 |<img src="real.png" style="width:400px;height:400px">|Got daydream real|
 |Mirrors|<img src="mirrors.png" style="width:400px;height:400px">|
-|<img src="friendship.png" style="width:400px;height:400px">|Friendship|
+|<img src="connection.png" style="width:400px;height:400px">|Connection|
 
 <br>
 

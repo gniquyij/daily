@@ -54,7 +54,7 @@ Here's my typical day.
 |<img src="real.png" style="width:400px;height:400px">|Got daydream real|
 |Mirrors|<img src="mirrors.png" style="width:400px;height:400px">|
 |<img src="connection.png" style="width:400px;height:400px">|Connection|
-|Fishing|<img src="fishing.png" style="width:400px;height:400px">|
+|Fishing|<img src="fishing_1.png" style="width:400px;height:400px">|
 
 <br>
 
